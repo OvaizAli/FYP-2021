@@ -1,0 +1,60 @@
+variable,description
+date,Date of projection
+inf_mean,Daily infections (mean estimate)
+inf_upper,Daily infections (upper 95% confidence interval)
+inf_lower,Daily infections (lower 95% confidence interval)
+seir_cumulative_mean,Cumulative excess deaths (mean estimate)
+seir_cumulative_lower,Cumulative excess deaths (lower 95% confidence interval)
+seir_cumulative_upper,Cumulative excess deaths (upper 95% confidence interval)
+inf_cuml_mean,Cumulative infections (mean estimate)
+inf_cuml_lower,Cumulative infections (lower 95% confidence interval)
+inf_cuml_upper,Cumulative infections (upper 95% confidence interval)
+seir_daily_mean,Daily excess deaths (mean estimate)
+seir_daily_lower,Daily excess deaths (lower 95% confidence interval)
+seir_daily_upper,Daily excess deaths upper 95% confidence interval)
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+population,Population size
+mobility_mean,Percent change in mobility from baseline (mean)
+mobility_obs,Indicator for whether mobility estimate comes from observed data (1) or modelled estimates (0)
+,
+,
+,
+testing_obs,Indicator for whether testing estimate comes from observed data (1) or modelled estimates (0)
+pneumonia_mean,Ratio of pneumonia deaths in a given week to the average annual pneumonia deaths by location
+pneumonia_obs,Indicator for whether pneumonia estimate comes from observed data (1) or modelled estimates (0)
+mask_use_mean,Percent of population reporting always wearing a mask when leaving home
+mask_use_obs,Indicator for whether mask estimate comes from observed data (1) or modelled estimates (0)
+,
+,
+,
+hospital_beds_mean,Daily COVID-19 hospital beds needed (mean estimate)
+hospital_beds_upper,Daily COVID-19 hospital beds needed (upper 95% confidence interval)
+hospital_beds_lower,Daily COVID-19 hospital beds needed (lower 95% confidence interval)
+icu_beds_mean,Daily COVID-19 ICU beds needed (mean estimate)
+icu_beds_upper,Daily COVID-19 ICU beds needed (upper 95% confidence interval)
+icu_beds_lower,Daily COVID-19 ICU beds needed (lower 95% confidence interval)
+,
+,
+,
+all_bed_capacity,Total number of beds that exist at a location
+icu_bed_capacity,Total number of ICU beds that exist at a location
+,
+,
+,
