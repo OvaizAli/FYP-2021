@@ -1,0 +1,752 @@
+,Temp,Wind,Barometer,Visibility,Weather
+"January 1, 2020",42.57,3.98,55.45,23.36,Fog.
+"January 2, 2020",42.57,3.98,55.45,23.36,Fog.
+"January 3, 2020",51.7,8.98,48.18,28.89,Partly cloudy.
+"January 4, 2020",50.66,3.82,37.36,21.92,Passing clouds.
+"January 5, 2020",49.98,4.61,52.84,26.67,Passing clouds.
+"January 6, 2020",47.39,5.34,64.43,29.47,Haze.
+"January 7, 2020",40.5,6.68,65.95,26.06,Partly cloudy.
+"January 8, 2020",45.14,3.91,53.89,21.87,Fog.
+"January 9, 2020",40.2,3.52,33.02,18.42,Passing clouds.
+"January 10, 2020",41.36,4.34,49.2,25.34,Haze.
+"January 11, 2020",47.41,5.09,46.93,28.81,Haze.
+"January 12, 2020",49.36,5.23,45.95,30.15,Passing clouds.
+"January 13, 2020",48.45,6.98,65.32,28.09,Partly cloudy.
+"January 14, 2020",41.36,5.82,61.34,26.43,Rain. Partly cloudy.
+"January 15, 2020",42.52,6.39,62.8,25.29,Light rain. Mostly cloudy.
+"January 16, 2020",48.91,5.2,65.3,29.39,Haze.
+"January 17, 2020",45.11,4.09,46.95,24.59,Haze.
+"January 18, 2020",46.7,4.66,53.16,28.01,Passing clouds.
+"January 19, 2020",42.7,4.43,41.61,25.32,Passing clouds.
+"January 20, 2020",45.3,4.7,45.91,26.72,Clear.
+"January 21, 2020",47.64,4.91,48.02,26.66,Partly cloudy.
+"January 22, 2020",41.68,4.48,66.3,25.38,Partly cloudy.
+"January 23, 2020",48.02,6.07,62.18,28.2,Fog.
+"January 24, 2020",45.23,6.48,40.0,26.07,Clear.
+"January 25, 2020",42.0,3.84,37.11,22.57,Haze.
+"January 26, 2020",49.2,4.66,48.43,27.99,Passing clouds.
+"January 27, 2020",45.55,4.45,44.0,25.93,Haze.
+"January 28, 2020",46.52,4.43,50.02,26.53,Haze.
+"January 29, 2020",49.98,6.61,67.89,29.22,Passing clouds.
+"January 30, 2020",45.14,6.02,68.61,28.72,Rain. Mostly cloudy.
+"January 31, 2020",46.43,4.73,64.41,27.38,Partly cloudy.
+"February 1, 2020",50.61,4.89,55.23,29.41,Passing clouds.
+"February 2, 2020",50.61,4.89,55.23,29.41,Passing clouds.
+"February 3, 2020",50.3,4.66,48.25,28.08,Haze.
+"February 4, 2020",49.07,4.55,45.39,27.34,Clear.
+"February 5, 2020",39.07,5.39,45.86,22.57,Passing clouds.
+"February 6, 2020",46.36,6.41,44.86,25.99,Haze.
+"February 7, 2020",23.7,2.0,23.02,13.64,Haze.
+"February 8, 2020",51.93,5.02,50.0,29.45,Haze.
+"February 9, 2020",50.84,3.95,32.09,23.31,Clear.
+"February 10, 2020",50.45,3.73,35.43,21.95,Haze.
+"February 11, 2020",51.2,2.59,21.43,15.06,Haze.
+"February 12, 2020",58.57,9.68,58.73,29.49,Partly cloudy.
+"February 13, 2020",59.48,6.59,49.25,26.09,Partly cloudy.
+"February 14, 2020",52.7,5.16,55.59,24.6,Partly cloudy.
+"February 15, 2020",48.09,5.34,28.27,22.52,Haze.
+"February 16, 2020",55.18,5.27,35.57,27.26,Clear.
+"February 17, 2020",50.68,6.93,27.89,23.92,Passing clouds.
+"February 18, 2020",58.02,4.98,31.02,28.06,Clear.
+"February 19, 2020",58.41,4.55,32.39,27.26,Haze.
+"February 20, 2020",42.89,8.55,38.73,22.45,Haze.
+"February 21, 2020",46.18,8.39,54.2,21.9,Thunderstorms. Partly cloudy.
+"February 22, 2020",56.84,4.86,58.32,28.77,Passing clouds.
+"February 23, 2020",47.66,4.07,51.68,24.02,Haze.
+"February 24, 2020",56.3,4.2,51.11,25.32,Haze.
+"February 25, 2020",58.39,4.55,53.45,27.28,Passing clouds.
+"February 26, 2020",60.68,4.66,53.09,27.91,Haze.
+"February 27, 2020",57.3,4.3,46.02,25.19,Haze.
+"February 28, 2020",52.98,5.23,45.98,23.84,Partly cloudy.
+"February 29, 2020",50.93,6.34,62.25,24.55,Partly cloudy.
+"March 1, 2020",57.25,6.5,63.8,27.31,Partly cloudy.
+"March 2, 2020",57.25,6.5,63.8,27.31,Partly cloudy.
+"March 3, 2020",64.45,4.77,58.61,28.59,Haze.
+"March 4, 2020",65.43,6.84,46.93,24.45,Haze.
+"March 5, 2020",51.32,7.11,60.8,25.12,Partly cloudy.
+"March 6, 2020",52.02,5.55,83.45,28.58,Rain. Mostly cloudy.
+"March 7, 2020",55.7,4.93,81.05,27.86,Fog.
+"March 8, 2020",50.18,6.66,55.27,17.71,Fog.
+"March 9, 2020",48.25,6.11,72.59,26.7,Thunderstorms. Mostly cloudy.
+"March 10, 2020",48.8,4.64,49.2,23.21,Fog.
+"March 11, 2020",52.7,4.98,55.7,25.14,Passing clouds.
+"March 12, 2020",56.25,6.0,58.64,27.14,Partly cloudy.
+"March 13, 2020",46.98,7.02,71.57,25.2,Partly cloudy.
+"March 14, 2020",50.95,4.8,64.11,26.63,Fog.
+"March 15, 2020",58.39,5.68,63.05,28.69,Haze.
+"March 16, 2020",31.8,2.84,32.09,14.35,Haze.
+"March 17, 2020",57.98,3.66,39.0,19.8,Haze.
+"March 18, 2020",60.82,6.14,55.84,27.31,Passing clouds.
+"March 19, 2020",64.16,5.16,50.0,27.95,Passing clouds.
+"March 20, 2020",55.11,4.73,50.41,24.45,Haze.
+"March 21, 2020",62.57,9.27,49.0,25.14,Passing clouds.
+"March 22, 2020",56.7,10.5,62.32,26.57,Thundershowers. Partly cloudy.
+"March 23, 2020",61.27,4.23,47.2,24.54,Passing clouds.
+"March 24, 2020",53.23,4.89,51.14,23.83,Passing clouds.
+"March 25, 2020",43.86,5.0,61.48,21.79,Rain. Partly cloudy.
+"March 26, 2020",42.32,4.64,40.66,16.36,Fog.
+"March 27, 2020",42.23,3.95,40.75,18.41,Clear.
+"March 28, 2020",33.16,4.41,46.82,16.32,Partly cloudy.
+"March 29, 2020",34.23,3.5,43.64,16.38,Partly cloudy.
+"March 30, 2020",49.18,4.61,47.27,22.5,Passing clouds.
+"March 31, 2020",50.48,7.34,48.57,23.17,Passing clouds.
+"April 1, 2020",45.61,6.5,48.89,21.12,Fog.
+"April 2, 2020",45.61,6.5,48.89,21.12,Fog.
+"April 3, 2020",43.07,4.43,43.27,20.42,Passing clouds.
+"April 4, 2020",43.68,4.18,32.8,19.06,Haze.
+"April 5, 2020",38.3,3.05,30.3,16.33,Haze.
+"April 6, 2020",41.8,5.68,43.84,19.08,Passing clouds.
+"April 7, 2020",46.11,5.93,39.89,19.77,Passing clouds.
+"April 8, 2020",52.91,9.05,49.2,23.83,Partly cloudy.
+"April 9, 2020",45.02,3.98,38.39,19.75,Haze.
+"April 10, 2020",47.36,5.45,42.07,20.4,Partly cloudy.
+"April 11, 2020",38.8,3.55,33.68,16.37,Passing clouds.
+"April 12, 2020",42.8,2.93,25.57,15.68,Passing clouds.
+"April 13, 2020",42.43,2.95,24.73,14.94,Passing clouds.
+"April 14, 2020",39.82,4.45,26.27,14.24,Passing clouds.
+"April 15, 2020",43.09,8.16,51.73,19.04,Thundershowers. Partly cloudy.
+"April 16, 2020",57.64,6.34,51.7,23.8,Thunderstorms. Mostly cloudy.
+"April 17, 2020",50.93,3.8,43.41,21.04,Haze.
+"April 18, 2020",33.77,4.09,43.32,15.61,Passing clouds.
+"April 19, 2020",41.43,4.55,41.84,17.68,Partly cloudy.
+"April 20, 2020",30.89,3.48,26.77,12.91,Passing clouds.
+"April 21, 2020",42.14,4.05,31.95,17.66,Partly cloudy.
+"April 22, 2020",37.05,2.95,23.43,14.27,Partly cloudy.
+"April 23, 2020",56.16,4.77,37.89,21.68,Clear.
+"April 24, 2020",40.41,2.82,25.16,14.9,Haze.
+"April 25, 2020",43.57,3.57,25.64,15.53,Haze.
+"April 26, 2020",33.52,4.02,21.93,12.84,Passing clouds.
+"April 27, 2020",39.86,3.98,24.68,14.9,Passing clouds.
+"April 28, 2020",56.02,8.98,41.23,21.74,Haze.
+"April 29, 2020",48.77,3.61,32.11,15.66,Partly cloudy.
+"April 30, 2020",16.68,0.34,4.98,2.04,5 mph
+"May 1, 2020",67.36,6.66,47.02,25.03,Passing clouds.
+"May 2, 2020",67.36,6.66,47.02,25.03,Passing clouds.
+"May 3, 2020",53.14,5.25,45.18,20.98,Passing clouds.
+"May 4, 2020",37.82,2.73,30.0,14.91,Thunderstorms. Passing clouds.
+"May 5, 2020",36.64,3.68,27.7,14.25,Passing clouds.
+"May 6, 2020",49.23,4.82,35.52,18.99,Passing clouds.
+"May 7, 2020",39.73,3.77,24.18,14.88,Passing clouds.
+"May 8, 2020",36.36,3.39,20.98,13.55,Haze.
+"May 9, 2020",44.43,4.77,20.55,15.55,Passing clouds.
+"May 10, 2020",63.39,6.41,28.93,21.66,Partly cloudy.
+"May 11, 2020",50.0,5.45,27.55,17.6,Thundershowers. Partly cloudy.
+"May 12, 2020",50.25,7.89,36.48,19.0,Passing clouds.
+"May 13, 2020",47.7,4.27,28.32,17.63,Passing clouds.
+"May 14, 2020",35.64,3.8,20.5,12.86,Passing clouds.
+"May 15, 2020",35.84,5.2,35.11,14.92,Thunderstorms. Partly cloudy.
+"May 16, 2020",53.0,4.09,36.23,20.34,Passing clouds.
+"May 17, 2020",51.14,6.27,31.57,18.93,Haze.
+"May 18, 2020",47.95,8.0,31.14,18.26,Passing clouds.
+"May 19, 2020",43.59,4.57,24.18,16.2,Passing clouds.
+"May 20, 2020",45.05,6.98,20.25,16.22,Thunderstorms. Partly cloudy.
+"May 21, 2020",53.14,4.57,21.36,18.19,Haze.
+"May 22, 2020",45.3,4.84,25.32,22.19,Haze.
+"May 23, 2020",46.86,5.68,24.18,18.82,Passing clouds.
+"May 24, 2020",50.64,6.23,22.25,16.87,Thundershowers. Partly cloudy.
+"May 25, 2020",47.41,4.55,26.0,20.24,Haze.
+"May 26, 2020",42.8,4.02,25.48,22.21,Haze.
+"May 27, 2020",43.02,4.02,21.32,18.16,Haze.
+"May 28, 2020",38.36,8.14,17.14,8.06,Haze.
+"May 29, 2020",28.09,4.27,12.27,8.73,Passing clouds.
+"May 30, 2020",63.64,9.09,29.43,21.57,Passing clouds.
+"May 31, 2020",47.07,7.52,32.95,17.57,Partly cloudy.
+"June 1, 2020",50.59,7.11,37.45,18.95,Thundershowers. Partly cloudy.
+"June 2, 2020",50.59,7.11,37.45,18.95,Thundershowers. Partly cloudy.
+"June 3, 2020",57.68,7.23,40.66,20.98,Passing clouds.
+"June 5, 2020",58.23,6.27,31.32,20.22,Passing clouds.
+"June 6, 2020",63.39,7.11,35.86,16.81,Passing clouds.
+"June 7, 2020",39.57,6.25,24.07,13.44,Haze.
+"June 8, 2020",41.14,5.82,26.68,14.13,Passing clouds.
+"June 9, 2020",40.05,5.75,29.73,15.46,Clear.
+"June 10, 2020",70.23,10.16,37.3,23.57,Thundershowers. Passing clouds.
+"June 11, 2020",46.84,5.93,27.11,16.83,Passing clouds.
+"June 12, 2020",57.14,6.32,29.66,18.81,Passing clouds.
+"June 13, 2020",80.0,9.77,51.61,28.24,Haze.
+"June 14, 2020",56.66,6.25,29.59,19.51,Thunderstorms. Passing clouds.
+"June 15, 2020",44.32,3.8,22.57,18.19,Passing clouds.
+"June 16, 2020",28.41,2.68,17.27,8.06,Haze.
+"June 17, 2020",39.16,4.0,19.52,0.0,Clear.
+"June 18, 2020",51.7,4.8,27.34,0.0,Haze.
+"June 19, 2020",39.05,6.68,21.8,0.67,Haze.
+"June 20, 2020",65.98,7.27,27.16,16.78,Passing clouds.
+"June 21, 2020",56.45,6.27,31.02,16.13,Haze.
+"June 22, 2020",52.34,4.59,29.68,13.43,Haze.
+"June 23, 2020",40.34,4.75,24.66,4.03,Clear.
+"June 24, 2020",45.95,6.86,31.48,14.14,Clear.
+"June 25, 2020",66.11,7.89,43.16,22.92,Partly cloudy.
+"June 26, 2020",62.14,6.16,37.39,12.11,Passing clouds.
+"June 27, 2020",60.84,6.45,40.16,12.76,Haze.
+"June 28, 2020",45.5,5.7,35.61,16.75,Haze.
+"June 29, 2020",57.16,9.41,38.43,14.73,Haze.
+"June 30, 2020",68.02,5.93,30.59,22.18,Haze.
+"July 1, 2020",34.0,4.7,19.57,10.76,Partly cloudy.
+"July 2, 2020",34.0,4.7,19.57,10.76,Partly cloudy.
+"July 3, 2020",28.7,3.16,21.02,0.0,Haze.
+"July 4, 2020",41.2,5.75,24.45,0.0,Clear.
+"July 5, 2020",57.0,7.2,31.89,0.0,Haze.
+"July 6, 2020",62.5,5.89,33.18,17.43,Haze.
+"July 7, 2020",58.14,4.3,27.59,13.42,Haze.
+"July 8, 2020",48.32,7.18,29.57,14.78,Passing clouds.
+"July 9, 2020",46.18,6.5,23.09,14.8,Passing clouds.
+"July 10, 2020",47.5,6.3,25.48,8.74,Thundershowers. Passing clouds.
+"July 11, 2020",48.36,5.59,33.64,0.0,Partly cloudy.
+"July 12, 2020",48.16,7.68,35.48,0.0,Haze.
+"July 13, 2020",43.77,6.75,31.93,8.73,Passing clouds.
+"July 14, 2020",64.48,5.41,38.11,22.13,Partly cloudy.
+"July 15, 2020",34.8,4.48,25.7,10.74,Passing clouds.
+"July 16, 2020",52.48,8.61,36.84,12.09,Passing clouds.
+"July 17, 2020",56.61,4.82,34.86,14.79,Thundershowers. Passing clouds.
+"July 18, 2020",54.48,6.23,35.98,16.13,Passing clouds.
+"July 19, 2020",48.57,5.14,40.18,18.83,Thundershowers. Partly cloudy.
+"July 20, 2020",40.14,7.55,28.95,6.72,Passing clouds.
+"July 21, 2020",50.82,7.34,34.32,0.0,Haze.
+"July 22, 2020",63.7,9.48,43.2,18.15,Haze.
+"July 23, 2020",59.75,5.48,36.61,16.84,Thundershowers. Passing clouds.
+"July 24, 2020",49.0,5.8,34.25,10.75,Clear.
+"July 25, 2020",64.11,6.23,41.61,21.56,Haze.
+"July 26, 2020",68.75,6.89,40.0,22.27,Haze.
+"July 27, 2020",59.27,6.66,39.39,19.56,Passing clouds.
+"July 28, 2020",71.55,7.61,51.64,16.16,Passing clouds.
+"July 29, 2020",66.41,8.07,52.91,13.43,Haze.
+"July 30, 2020",71.23,9.41,53.55,17.42,Haze.
+"July 31, 2020",69.55,10.5,47.59,17.5,Haze.
+"August 1, 2020",48.75,7.05,34.09,16.13,Thundershowers. Passing clouds.
+"August 2, 2020",48.75,7.05,34.09,16.13,Thundershowers. Passing clouds.
+"August 3, 2020",43.7,4.57,32.23,16.11,Thundershowers. Passing clouds.
+"August 4, 2020",68.2,7.2,42.11,12.69,Passing clouds.
+"August 5, 2020",77.84,9.07,50.86,0.0,Thunderstorms. Passing clouds.
+"August 6, 2020",53.39,5.66,38.7,0.67,Haze.
+"August 7, 2020",56.07,7.59,45.43,20.82,Haze.
+"August 8, 2020",57.75,7.84,48.64,18.83,Haze.
+"August 9, 2020",78.64,11.43,51.98,11.42,Passing clouds.
+"August 10, 2020",68.34,11.36,50.95,2.01,Partly cloudy.
+"August 11, 2020",69.7,6.48,51.68,20.79,Passing clouds.
+"August 12, 2020",80.68,9.05,59.48,15.44,Passing clouds.
+"August 13, 2020",72.73,9.34,61.95,0.0,Haze.
+"August 14, 2020",57.8,7.61,46.36,0.0,Passing clouds.
+"August 15, 2020",83.25,12.98,59.5,18.76,Thundershowers. Passing clouds.
+"August 16, 2020",67.59,9.14,48.64,7.36,Passing clouds.
+"August 17, 2020",68.18,9.16,55.02,3.35,Passing clouds.
+"August 18, 2020",66.61,10.68,62.5,0.0,Haze.
+"August 19, 2020",87.84,12.07,67.82,22.13,Thundershowers. Passing clouds.
+"August 20, 2020",64.52,7.98,50.07,12.73,Thunderstorms. Partly cloudy.
+"August 21, 2020",60.68,6.27,59.52,18.17,Partly cloudy.
+"August 22, 2020",63.48,5.59,45.52,21.58,Partly cloudy.
+"August 23, 2020",80.14,7.52,57.09,26.28,Partly cloudy.
+"August 24, 2020",77.16,7.45,54.27,25.55,Haze.
+"August 25, 2020",77.3,6.55,50.8,18.82,Haze.
+"August 26, 2020",74.32,9.0,58.91,24.89,Haze.
+"August 27, 2020",75.39,7.8,68.64,27.68,Partly cloudy.
+"August 28, 2020",74.09,6.57,61.18,25.61,Partly cloudy.
+"August 29, 2020",67.36,6.59,56.3,24.25,Thundershowers. Partly cloudy.
+"August 30, 2020",75.27,5.64,53.82,25.57,Passing clouds.
+"August 31, 2020",80.45,6.61,51.41,26.92,Haze.
+"September 1, 2020",58.16,6.66,74.09,23.7,Rain. Partly cloudy.
+"September 2, 2020",58.16,6.66,74.09,23.7,Rain. Partly cloudy.
+"September 3, 2020",72.68,5.59,64.75,25.76,Fog.
+"September 4, 2020",76.36,6.27,65.48,27.14,Passing clouds.
+"September 5, 2020",62.05,5.36,53.77,22.37,Haze.
+"September 6, 2020",71.66,5.18,51.64,24.3,Haze.
+"September 7, 2020",63.14,6.36,51.43,22.25,Haze.
+"September 8, 2020",74.41,5.36,50.8,25.67,Haze.
+"September 9, 2020",63.07,4.61,44.64,22.29,Haze.
+"September 10, 2020",63.8,6.23,48.18,22.29,Haze.
+"September 11, 2020",68.36,4.36,47.11,24.25,Haze.
+"September 12, 2020",84.02,6.25,62.48,28.97,Haze.
+"September 13, 2020",66.14,6.07,45.0,22.98,Haze.
+"September 14, 2020",80.89,4.98,42.48,23.64,Haze.
+"September 15, 2020",71.57,6.32,51.98,24.98,Haze.
+"September 16, 2020",77.18,5.48,39.25,24.29,Passing clouds.
+"September 17, 2020",80.36,7.5,51.73,27.66,Haze.
+"September 22, 2020",65.11,3.75,35.43,22.21,Haze.
+"September 23, 2020",74.57,4.5,41.68,25.58,Haze.
+"September 24, 2020",77.09,4.89,47.05,26.24,Haze.
+"September 25, 2020",73.57,3.73,32.86,21.58,Haze.
+"September 26, 2020",65.27,6.95,42.2,22.9,Haze.
+"September 27, 2020",67.66,4.89,42.27,20.24,Passing clouds.
+"September 28, 2020",70.25,5.82,48.3,26.38,Passing clouds.
+"September 29, 2020",69.75,7.59,41.73,25.73,Passing clouds.
+"September 30, 2020",67.57,8.57,30.25,24.37,Thundershowers. Partly cloudy.
+"October 1, 2020",74.82,8.3,36.77,27.06,Passing clouds.
+"October 2, 2020",74.82,8.3,36.77,27.06,Passing clouds.
+"October 3, 2020",61.43,5.0,33.82,22.98,Haze.
+"October 4, 2020",67.32,4.82,31.95,24.36,Clear.
+"October 5, 2020",73.18,5.18,39.39,27.09,Clear.
+"October 6, 2020",70.07,4.59,37.14,25.73,Haze.
+"October 7, 2020",62.14,3.36,23.91,17.61,Haze.
+"October 8, 2020",69.77,3.59,30.27,20.35,Clear.
+"October 9, 2020",63.82,4.0,33.34,20.36,Clear.
+"October 10, 2020",79.98,6.23,48.73,28.51,Haze.
+"October 11, 2020",62.57,5.82,40.57,23.74,Haze.
+"October 12, 2020",48.16,4.68,33.0,18.26,Clear.
+"October 13, 2020",64.91,5.45,41.68,25.01,Haze.
+"October 14, 2020",70.18,9.11,39.75,27.1,Haze.
+"October 16, 2020",60.75,4.25,33.66,23.74,Haze.
+"October 17, 2020",56.61,3.84,32.86,21.01,Clear.
+"October 18, 2020",64.36,4.84,38.34,25.09,Haze.
+"October 19, 2020",55.43,3.66,35.86,21.03,Haze.
+"October 20, 2020",54.16,3.64,35.25,21.69,Clear.
+"October 21, 2020",54.0,3.8,38.14,22.35,Haze.
+"October 22, 2020",59.43,4.77,41.25,24.43,Haze.
+"October 23, 2020",65.18,4.32,43.93,24.4,Haze.
+"October 24, 2020",53.36,3.93,40.95,22.36,Haze.
+"October 25, 2020",58.3,3.89,35.77,21.01,Clear.
+"October 26, 2020",50.8,6.61,37.73,21.78,Haze.
+"October 27, 2020",57.25,4.2,35.39,23.87,Haze.
+"October 28, 2020",59.52,4.93,30.05,24.48,Haze.
+"October 29, 2020",49.64,3.61,33.0,21.1,Clear.
+"October 30, 2020",64.43,4.82,43.14,27.27,Haze.
+"November 2, 2020",48.5,3.98,23.25,21.12,Clear.
+"November 3, 2020",59.91,4.41,29.34,25.89,Haze.
+"November 4, 2020",58.0,4.32,33.93,25.89,Haze.
+"November 5, 2020",56.64,4.3,39.18,25.18,Haze.
+"November 6, 2020",52.25,3.86,34.41,23.18,Clear.
+"November 7, 2020",53.0,3.86,33.27,23.25,Haze.
+"November 8, 2020",42.95,3.3,28.14,19.84,Clear.
+"November 9, 2020",48.82,3.41,30.75,20.51,Haze.
+"November 10, 2020",46.91,3.16,32.64,18.46,Haze.
+"November 11, 2020",48.09,2.73,29.41,16.4,Passing clouds.
+"November 12, 2020",50.32,3.86,42.8,23.26,Passing clouds.
+"November 13, 2020",49.98,3.18,33.25,19.16,Passing clouds.
+"November 14, 2020",39.86,2.75,30.27,14.36,Passing clouds.
+"November 15, 2020",50.8,6.45,53.73,25.26,Light rain. Partly cloudy.
+"November 16, 2020",35.89,3.61,40.86,17.07,Thundershowers. Partly cloudy.
+"November 17, 2020",53.55,2.95,42.11,17.83,Drizzle. Mostly cloudy.
+"November 18, 2020",40.68,3.41,45.11,20.51,Haze.
+"November 19, 2020",48.77,4.09,46.7,24.52,Clear.
+"November 20, 2020",54.73,5.8,61.32,29.3,Passing clouds.
+"November 21, 2020",52.0,5.95,58.66,28.05,Haze.
+"November 22, 2020",38.32,3.86,36.14,20.49,Clear.
+"November 23, 2020",40.18,1.89,21.14,10.24,Haze.
+"November 24, 2020",49.93,4.68,63.7,27.39,Passing clouds.
+"November 25, 2020",50.98,4.55,68.45,27.41,Fog.
+"November 26, 2020",33.36,2.95,54.2,17.82,Fog.
+"November 27, 2020",48.91,4.2,62.98,25.44,Fog.
+"November 28, 2020",41.55,3.64,45.11,22.02,Haze.
+"November 29, 2020",40.27,3.52,41.16,21.25,Passing clouds.
+"November 30, 2020",41.05,2.0,26.14,10.94,Passing clouds.
+"December 1, 2020",46.8,2.39,35.2,14.36,Passing clouds.
+"December 2, 2020",46.8,2.39,35.2,14.36,Passing clouds.
+"December 3, 2020",51.73,3.75,43.25,22.51,Haze.
+"December 4, 2020",40.18,2.27,29.23,13.62,Clear.
+"December 5, 2020",50.23,2.95,34.86,17.69,Passing clouds.
+"December 6, 2020",51.11,3.05,39.05,17.72,Passing clouds.
+"December 7, 2020",43.16,3.57,39.55,21.19,Passing clouds.
+"December 8, 2020",38.11,2.02,24.3,10.26,Passing clouds.
+"December 11, 2020",31.93,3.18,34.45,16.4,Clear.
+"December 12, 2020",48.02,4.55,46.8,24.58,Passing clouds.
+"December 14, 2020",43.7,4.5,60.93,24.58,Fog.
+"December 15, 2020",38.59,4.05,49.89,21.86,Fog.
+"December 16, 2020",31.14,3.55,49.18,19.19,Haze.
+"December 17, 2020",40.07,4.48,42.25,24.03,Haze.
+"December 18, 2020",37.3,3.89,38.8,22.64,Haze.
+"December 19, 2020",36.61,3.64,34.73,21.91,Clear.
+"December 21, 2020",46.82,4.25,39.41,25.36,Haze.
+"December 22, 2020",48.27,3.98,44.02,23.92,Haze.
+"December 23, 2020",48.93,3.68,38.34,21.85,Haze.
+"December 24, 2020",32.02,2.5,25.52,15.01,Clear.
+"December 25, 2020",44.25,2.05,19.43,12.27,Haze.
+"December 26, 2020",48.59,2.39,34.66,14.35,Passing clouds.
+"December 27, 2020",49.09,2.95,36.09,17.72,Partly cloudy.
+"December 28, 2020",27.84,7.39,47.86,17.01,Passing clouds.
+"December 29, 2020",36.27,2.73,41.39,16.42,Fog.
+"December 31, 2020",39.11,3.7,40.39,21.23,Clear.
+"January 1, 2021",44.34,3.86,36.73,23.24,Passing clouds.
+"January 2, 2021",44.34,3.86,36.73,23.24,Passing clouds.
+"January 3, 2021",37.36,3.07,29.82,18.48,Haze.
+"January 4, 2021",39.98,3.11,31.11,18.43,Clear.
+"January 5, 2021",43.57,3.93,45.57,20.54,Passing clouds.
+"January 7, 2021",33.59,1.7,23.55,10.24,Passing clouds.
+"January 8, 2021",48.02,3.64,43.39,21.83,Clear.
+"January 9, 2021",32.84,5.23,40.75,19.09,Haze.
+"January 10, 2021",40.64,2.5,27.59,15.02,Haze.
+"January 11, 2021",44.98,3.3,29.14,18.42,Haze.
+"January 12, 2021",41.52,2.27,16.55,13.66,Haze.
+"January 13, 2021",51.05,4.55,28.57,21.84,Clear.
+"January 14, 2021",50.82,3.8,31.05,21.13,Haze.
+"January 15, 2021",40.2,1.36,15.82,8.17,Haze.
+"January 16, 2021",47.5,2.11,27.7,12.94,Passing clouds.
+"January 17, 2021",39.05,2.73,33.59,16.33,Clear.
+"January 18, 2021",44.59,4.16,53.84,23.83,Haze.
+"January 19, 2021",47.84,2.16,31.52,13.0,Fog.
+"January 20, 2021",51.09,3.98,45.09,23.87,Haze.
+"January 21, 2021",38.7,3.36,32.52,19.1,Haze.
+"January 22, 2021",49.91,3.59,27.32,20.42,Haze.
+"January 23, 2021",44.5,4.11,37.41,21.08,Passing clouds.
+"January 25, 2021",36.61,3.66,30.86,21.18,Clear.
+"January 26, 2021",45.73,4.27,33.5,24.61,Haze.
+"January 27, 2021",46.84,4.41,37.93,25.96,Clear.
+"January 28, 2021",32.84,2.84,25.5,17.09,Haze.
+"January 29, 2021",35.09,2.95,26.93,17.77,Passing clouds.
+"January 30, 2021",41.16,2.66,24.66,15.73,Haze.
+"January 31, 2021",39.27,2.5,25.5,15.02,Haze.
+"February 1, 2021",42.73,3.52,30.5,19.86,Passing clouds.
+"February 2, 2021",42.73,3.52,30.5,19.86,Passing clouds.
+"February 3, 2021",48.8,4.48,35.89,22.55,Haze.
+"February 4, 2021",43.45,4.84,37.18,21.87,Haze.
+"February 5, 2021",46.02,4.68,45.2,23.27,Partly cloudy.
+"February 6, 2021",47.61,3.73,40.18,19.16,Clear.
+"February 8, 2021",49.23,2.05,23.05,12.29,Haze.
+"February 10, 2021",41.57,1.93,20.09,11.58,Clear.
+"February 11, 2021",52.3,3.3,34.93,19.73,Haze.
+"February 12, 2021",53.41,3.66,36.14,21.12,Haze.
+"February 13, 2021",47.16,2.98,21.27,15.67,Passing clouds.
+"February 14, 2021",50.75,1.82,14.48,10.89,Passing clouds.
+"February 15, 2021",56.73,2.84,25.91,17.04,Haze.
+"February 16, 2021",48.39,3.41,32.07,20.41,Haze.
+"February 17, 2021",55.11,3.95,31.93,23.14,Haze.
+"February 18, 2021",50.23,2.39,17.3,14.3,Haze.
+"February 19, 2021",53.0,2.5,22.91,15.04,Haze.
+"February 20, 2021",48.18,3.23,31.25,19.16,Haze.
+"February 21, 2021",54.11,3.3,37.27,19.84,Passing clouds.
+"February 22, 2021",45.39,1.25,15.39,7.52,Haze.
+"February 23, 2021",57.45,4.25,36.05,19.77,Passing clouds.
+"February 24, 2021",58.95,4.5,52.11,23.15,Thunderstorms. Partly cloudy.
+"February 25, 2021",50.52,4.73,44.61,22.45,Passing clouds.
+"February 26, 2021",41.07,4.5,43.41,19.06,Thunderstorms. Partly cloudy.
+"February 28, 2021",62.11,8.07,53.34,27.04,Fog.
+"March 1, 2021",49.5,5.18,28.0,21.14,Clear.
+"March 2, 2021",49.5,5.18,28.0,21.14,Clear.
+"March 3, 2021",56.91,4.43,32.89,25.23,Haze.
+"March 4, 2021",53.25,3.11,24.25,18.36,Haze.
+"March 5, 2021",47.18,3.7,33.23,21.1,Haze.
+"March 6, 2021",60.11,7.39,33.0,25.18,Haze.
+"March 7, 2021",59.14,6.68,35.93,25.82,Haze.
+"March 8, 2021",48.07,6.59,36.18,19.04,Partly cloudy.
+"March 9, 2021",59.55,4.64,45.2,25.89,Thundershowers. Passing clouds.
+"March 10, 2021",52.64,4.45,36.5,22.5,Passing clouds.
+"March 11, 2021",58.8,6.98,33.45,22.49,Passing clouds.
+"March 12, 2021",55.45,7.93,53.0,25.94,Thundershowers. Partly cloudy.
+"March 13, 2021",56.16,7.7,48.89,22.6,Fog.
+"March 14, 2021",45.93,5.23,39.3,20.55,Passing clouds.
+"March 15, 2021",49.84,5.23,53.89,23.2,Rain. Partly cloudy.
+"March 16, 2021",56.25,6.09,47.45,24.53,Passing clouds.
+"March 17, 2021",59.57,6.16,42.89,25.2,Passing clouds.
+"March 18, 2021",47.18,4.82,30.77,19.72,Haze.
+"March 19, 2021",61.55,8.32,33.93,22.47,Haze.
+"March 20, 2021",59.66,5.68,33.93,24.5,Haze.
+"March 21, 2021",58.3,5.59,30.5,23.07,Passing clouds.
+"March 22, 2021",52.57,8.48,43.5,23.08,Partly cloudy.
+"March 23, 2021",52.36,7.73,70.84,25.87,Partly cloudy.
+"March 24, 2021",42.84,9.52,67.64,22.47,Rain. Mostly cloudy.
+"March 25, 2021",48.89,4.16,42.93,20.51,Fog.
+"March 26, 2021",39.07,3.73,36.8,17.74,Haze.
+"March 27, 2021",64.52,6.75,46.09,26.51,Haze.
+"March 28, 2021",61.41,5.39,48.73,23.76,Haze.
+"March 29, 2021",60.23,4.98,43.75,23.67,Passing clouds.
+"March 30, 2021",64.02,5.64,46.3,24.97,Passing clouds.
+"March 31, 2021",67.48,19.59,26.3,22.92,Thundershowers. Partly cloudy.
+"April 1, 2021",67.86,36.73,0.45,1.35,Pleasantly warm.
+"April 2, 2021",67.86,36.73,0.45,1.35,Pleasantly warm.
+"April 3, 2021",54.39,17.75,2.66,6.76,Mild.
+"April 4, 2021",63.52,4.93,19.02,23.76,Haze.
+"April 5, 2021",55.82,4.7,28.52,23.11,Passing clouds.
+"April 6, 2021",63.73,8.43,45.64,26.52,Rain. Partly cloudy.
+"April 7, 2021",51.7,5.84,36.91,18.31,Thundershowers. Partly cloudy.
+"April 8, 2021",57.55,5.41,44.52,23.17,Partly cloudy.
+"April 9, 2021",57.34,6.3,37.34,24.45,Haze.
+"April 10, 2021",63.86,5.91,33.57,26.52,Haze.
+"April 11, 2021",64.25,10.23,32.11,25.19,Thundershowers. Partly cloudy.
+"April 12, 2021",70.18,9.55,44.95,27.93,Passing clouds.
+"April 13, 2021",66.2,6.34,43.59,25.9,Partly cloudy.
+"April 14, 2021",61.57,7.3,35.89,23.82,Haze.
+"April 15, 2021",65.68,10.64,39.36,25.14,Thunderstorms. Partly cloudy.
+"April 16, 2021",58.82,7.57,54.55,25.19,Thundershowers. Partly cloudy.
+"April 17, 2021",55.61,7.75,52.68,23.8,Partly cloudy.
+"April 18, 2021",60.98,6.43,52.93,21.07,Rain. Mostly cloudy.
+"April 19, 2021",57.23,5.61,58.32,24.53,Partly cloudy.
+"April 20, 2021",60.73,6.05,45.0,24.44,Haze.
+"April 21, 2021",66.59,6.09,49.25,27.06,Partly cloudy.
+"April 22, 2021",45.59,5.41,34.77,18.98,Passing clouds.
+"April 23, 2021",51.18,7.14,36.86,20.31,Passing clouds.
+"April 24, 2021",62.2,6.59,31.95,24.44,Passing clouds.
+"April 25, 2021",62.75,6.57,32.95,23.12,Haze.
+"April 26, 2021",67.32,4.73,27.5,24.43,Passing clouds.
+"April 27, 2021",59.66,3.61,22.23,18.29,Haze.
+"April 28, 2021",79.48,3.64,21.55,21.67,Passing clouds.
+"April 29, 2021",69.61,7.18,30.18,23.74,Passing clouds.
+"April 30, 2021",64.66,5.34,25.84,22.37,Passing clouds.
+"May 1, 2021",73.3,4.41,26.16,24.35,Passing clouds.
+"May 2, 2021",73.3,4.41,26.16,24.35,Passing clouds.
+"May 3, 2021",70.86,5.43,27.8,24.37,Passing clouds.
+"May 4, 2021",75.34,6.66,29.98,24.97,Passing clouds.
+"May 5, 2021",62.18,7.52,35.27,20.92,Passing clouds.
+"May 6, 2021",69.68,12.34,56.3,27.13,Rain. Mostly cloudy.
+"May 7, 2021",57.05,6.0,40.89,21.7,Partly cloudy.
+"May 8, 2021",55.73,5.5,32.14,20.35,Passing clouds.
+"May 9, 2021",50.57,4.77,32.0,18.29,Passing clouds.
+"May 10, 2021",72.32,7.55,39.07,24.99,Haze.
+"May 11, 2021",59.66,6.2,33.7,20.91,Passing clouds.
+"May 12, 2021",63.45,6.3,31.91,22.26,Partly cloudy.
+"May 13, 2021",62.14,6.5,32.89,19.53,Haze.
+"May 14, 2021",61.64,8.3,32.89,22.23,Passing clouds.
+"May 15, 2021",63.48,7.59,40.43,22.93,Passing clouds.
+"May 17, 2021",58.36,7.11,31.91,21.71,Passing clouds.
+"May 18, 2021",67.2,6.57,32.93,23.72,Passing clouds.
+"May 19, 2021",69.86,5.91,24.52,21.61,Passing clouds.
+"May 20, 2021",72.95,6.18,27.27,24.93,Passing clouds.
+"May 21, 2021",48.5,8.25,24.59,14.13,Haze.
+"May 22, 2021",66.84,8.39,26.8,23.59,Passing clouds.
+"May 23, 2021",63.73,8.52,27.0,22.97,Haze.
+"May 24, 2021",43.55,7.95,18.55,15.57,Passing clouds.
+"May 25, 2021",60.36,6.11,26.66,21.68,Thundershowers. Overcast.
+"May 26, 2021",75.77,5.55,27.52,25.62,Haze.
+"May 27, 2021",59.68,5.02,24.41,24.22,Haze.
+"May 28, 2021",55.55,5.45,22.84,22.86,Haze.
+"May 29, 2021",49.75,6.5,16.64,20.84,Passing clouds.
+"May 30, 2021",46.48,5.66,20.82,21.52,Passing clouds.
+"May 31, 2021",58.23,6.77,27.73,22.89,Haze.
+"June 1, 2021",59.05,8.27,26.09,19.52,Haze.
+"June 2, 2021",59.05,8.27,26.09,19.52,Haze.
+"June 3, 2021",72.41,8.18,31.14,23.58,Haze.
+"June 4, 2021",60.3,9.05,31.18,20.25,Haze.
+"June 5, 2021",65.89,6.64,32.18,24.31,Passing clouds.
+"June 6, 2021",54.34,6.18,29.11,19.54,Clear.
+"June 7, 2021",51.09,5.7,30.82,20.19,Passing clouds.
+"June 8, 2021",48.55,5.36,29.55,16.81,Haze.
+"June 9, 2021",41.66,4.98,28.89,1.34,Haze.
+"June 10, 2021",35.77,4.52,19.84,0.0,Clear.
+"June 11, 2021",42.3,6.2,23.05,11.33,Haze.
+"June 12, 2021",61.02,12.43,38.48,11.35,Haze.
+"June 13, 2021",50.23,7.39,31.43,1.34,Passing clouds.
+"June 14, 2021",85.23,13.57,40.14,21.45,Haze.
+"June 15, 2021",73.61,9.23,41.59,14.1,Passing clouds.
+"June 16, 2021",56.77,8.52,29.07,0.0,Haze.
+"June 17, 2021",70.3,11.16,32.89,6.05,Haze.
+"June 18, 2021",70.18,9.36,29.8,23.53,Passing clouds.
+"June 19, 2021",59.23,7.16,22.45,24.18,Passing clouds.
+"June 20, 2021",48.59,5.0,25.66,14.11,Haze.
+"June 21, 2021",64.0,10.3,28.41,16.14,Haze.
+"June 22, 2021",58.82,5.2,22.61,20.21,Haze.
+"June 23, 2021",55.91,5.93,23.11,24.21,Haze.
+"June 24, 2021",45.95,5.52,20.93,18.82,Haze.
+"June 25, 2021",59.14,8.16,22.14,16.82,Passing clouds.
+"June 26, 2021",74.3,9.11,30.77,19.48,Haze.
+"June 27, 2021",60.3,5.48,28.02,19.55,Haze.
+"June 28, 2021",52.57,7.98,30.52,21.62,Passing clouds.
+"June 29, 2021",60.45,6.55,30.91,24.96,Passing clouds.
+"June 30, 2021",47.93,6.07,23.89,13.45,Haze.
+"July 1, 2021",35.64,6.75,18.41,6.68,Haze.
+"July 2, 2021",35.64,6.75,18.41,6.68,Haze.
+"July 3, 2021",71.59,9.95,34.07,0.0,Haze.
+"July 4, 2021",69.07,7.43,28.36,13.44,Haze.
+"July 5, 2021",51.34,10.39,39.02,22.89,Haze.
+"July 6, 2021",64.61,4.52,33.48,19.56,Passing clouds.
+"July 7, 2021",54.55,5.36,30.57,15.47,Haze.
+"July 8, 2021",50.84,5.73,30.55,16.12,Haze.
+"July 9, 2021",58.98,6.8,30.39,16.75,Haze.
+"July 10, 2021",44.66,5.98,30.8,12.08,Haze.
+"July 11, 2021",52.05,9.14,40.8,9.4,Passing clouds.
+"July 12, 2021",55.59,8.84,43.95,14.11,Passing clouds.
+"July 13, 2021",73.3,12.52,46.34,22.87,Passing clouds.
+"July 14, 2021",56.02,9.07,47.98,20.25,Thundershowers. Partly cloudy.
+"July 15, 2021",55.0,5.73,54.02,20.25,Thunderstorms. Partly cloudy.
+"July 16, 2021",58.52,4.7,34.16,17.53,Haze.
+"July 17, 2021",57.8,6.0,41.84,22.25,Haze.
+"July 18, 2021",49.61,4.93,36.45,11.45,Haze.
+"July 19, 2021",55.7,6.86,45.02,0.0,Haze.
+"July 20, 2021",71.8,8.57,55.11,0.0,Passing clouds.
+"July 21, 2021",74.2,8.45,70.34,11.41,Thunderstorms. Partly cloudy.
+"July 22, 2021",57.43,7.68,52.02,1.34,Thundershowers. Partly cloudy.
+"July 23, 2021",70.09,4.68,43.36,0.0,Passing clouds.
+"July 24, 2021",45.55,4.7,27.55,4.03,Haze.
+"July 25, 2021",52.3,5.14,40.36,10.75,Haze.
+"July 26, 2021",51.98,5.66,38.59,4.03,Haze.
+"July 27, 2021",71.98,7.0,53.82,0.0,Passing clouds.
+"July 28, 2021",71.86,7.25,68.02,0.0,Passing clouds.
+"July 29, 2021",75.64,9.25,68.93,12.05,Fog.
+"July 30, 2021",66.52,6.02,62.11,10.72,Partly cloudy.
+"July 31, 2021",68.09,5.43,60.89,8.73,Partly cloudy.
+"August 3, 2021",73.95,7.23,55.68,13.43,Thunderstorms. Partly cloudy.
+"August 4, 2021",77.45,9.25,56.18,18.81,Haze.
+"August 5, 2021",64.23,6.5,48.16,20.18,Passing clouds.
+"August 6, 2021",66.68,6.59,39.43,18.8,Passing clouds.
+"August 7, 2021",56.2,5.16,42.09,19.5,Passing clouds.
+"August 8, 2021",56.55,4.73,37.41,18.84,Passing clouds.
+"August 9, 2021",58.5,5.8,42.66,20.22,Passing clouds.
+"August 10, 2021",75.75,5.68,46.07,25.61,Passing clouds.
+"August 11, 2021",65.55,4.82,42.55,18.15,Haze.
+"August 12, 2021",60.05,4.82,41.77,16.13,Haze.
+"August 13, 2021",71.98,6.98,54.5,26.22,Passing clouds.
+"August 14, 2021",64.86,8.39,53.48,19.47,Haze.
+"August 15, 2021",67.73,9.86,49.93,19.47,Thundershowers. Passing clouds.
+"August 16, 2021",48.93,5.5,37.73,16.83,Partly cloudy.
+"August 17, 2021",64.75,4.5,35.68,21.6,Haze.
+"August 18, 2021",75.57,5.84,46.8,26.3,Haze.
+"August 19, 2021",73.93,5.84,41.5,24.22,Passing clouds.
+"August 20, 2021",50.41,6.11,36.02,16.14,Haze.
+"August 21, 2021",67.68,8.48,43.14,23.6,Passing clouds.
+"August 22, 2021",82.09,7.23,46.41,27.71,Thundershowers. Passing clouds.
+"August 23, 2021",73.07,5.77,45.75,24.31,Haze.
+"August 24, 2021",68.82,6.91,50.11,22.89,Haze.
+"August 25, 2021",69.95,5.16,45.59,12.1,Haze.
+"August 26, 2021",66.16,6.55,52.95,12.73,Haze.
+"August 27, 2021",55.64,5.07,41.2,8.03,Haze.
+"August 28, 2021",68.34,7.91,45.68,12.08,Passing clouds.
+"August 29, 2021",73.52,6.59,52.59,24.21,Passing clouds.
+"August 30, 2021",67.14,5.93,43.3,22.89,Partly cloudy.
+"August 31, 2021",65.64,6.95,52.43,23.67,Haze.
+"September 1, 2021",58.95,4.18,35.77,20.31,Passing clouds.
+"September 2, 2021",58.95,4.18,35.77,20.31,Passing clouds.
+"September 3, 2021",64.52,5.27,40.3,22.94,Clear.
+"September 4, 2021",56.07,5.0,36.36,20.22,Haze.
+"September 5, 2021",72.39,6.05,45.84,24.25,Haze.
+"September 6, 2021",80.66,6.25,51.57,24.92,Haze.
+"September 7, 2021",72.25,5.48,43.82,22.26,Haze.
+"September 8, 2021",60.7,5.64,39.61,20.24,Haze.
+"September 9, 2021",69.64,7.77,70.48,25.67,Haze.
+"September 10, 2021",58.57,3.64,43.93,17.56,Passing clouds.
+"September 11, 2021",58.75,7.3,54.82,20.92,Passing clouds.
+"September 12, 2021",57.84,5.93,45.95,20.26,Passing clouds.
+"September 13, 2021",74.05,7.2,56.98,26.3,Thundershowers. Partly cloudy.
+"September 14, 2021",80.32,6.2,60.16,27.62,Partly cloudy.
+"September 15, 2021",62.55,5.32,46.52,21.62,Haze.
+"September 16, 2021",61.23,5.59,45.57,20.96,Haze.
+"September 17, 2021",68.09,5.3,47.05,22.92,Haze.
+"September 18, 2021",77.14,6.55,53.55,25.58,Clear.
+"September 19, 2021",74.36,6.02,56.68,24.97,Haze.
+"September 20, 2021",70.59,5.77,51.91,22.99,Haze.
+"September 21, 2021",57.36,5.55,45.09,19.59,Haze.
+"September 22, 2021",57.98,5.27,43.98,20.25,Passing clouds.
+"September 23, 2021",74.91,5.36,43.93,21.59,Thundershowers. Passing clouds.
+"September 24, 2021",57.07,5.45,41.02,20.31,Passing clouds.
+"September 25, 2021",59.52,5.36,42.77,21.01,Passing clouds.
+"September 26, 2021",69.25,5.3,44.02,23.65,Haze.
+"September 27, 2021",65.7,5.23,49.41,22.98,Clear.
+"September 28, 2021",63.5,4.55,44.57,21.64,Haze.
+"September 29, 2021",82.16,5.8,52.82,27.73,Haze.
+"September 30, 2021",64.61,4.61,47.48,22.36,Haze.
+"October 1, 2021",59.77,4.95,40.3,17.61,Haze.
+"October 2, 2021",59.77,4.95,40.3,17.61,Haze.
+"October 3, 2021",55.16,4.86,43.95,19.63,Thundershowers. Passing clouds.
+"October 4, 2021",74.34,5.98,49.82,23.64,Passing clouds.
+"October 5, 2021",82.82,7.02,63.23,29.71,Thundershowers. Partly cloudy.
+"October 6, 2021",66.3,6.61,50.91,24.43,Thunderstorms. Passing clouds.
+"October 7, 2021",74.05,2.61,24.55,15.59,Haze.
+"October 8, 2021",63.45,2.93,23.45,14.19,Haze.
+"October 9, 2021",75.32,4.91,36.05,21.61,Haze.
+"October 10, 2021",69.36,2.57,27.66,16.9,Haze.
+"October 11, 2021",47.75,4.68,40.39,18.26,Passing clouds.
+"October 12, 2021",55.82,4.36,39.43,20.34,Thunderstorms. Partly cloudy.
+"October 13, 2021",68.25,5.43,34.55,25.76,Haze.
+"October 14, 2021",75.8,4.14,25.41,24.4,Haze.
+"October 15, 2021",61.39,2.2,10.59,12.88,Haze.
+"October 16, 2021",71.8,4.2,15.66,20.96,Haze.
+"October 17, 2021",65.27,3.91,23.05,18.95,Haze.
+"October 18, 2021",68.45,7.43,39.84,24.38,Haze.
+"October 19, 2021",59.39,4.3,32.61,19.64,Passing clouds.
+"October 20, 2021",55.23,3.91,31.05,20.32,Haze.
+"October 21, 2021",67.73,4.23,35.27,23.07,Haze.
+"October 22, 2021",49.93,2.84,30.75,16.96,Haze.
+"October 23, 2021",50.25,6.0,35.32,18.97,Passing clouds.
+"October 24, 2021",51.77,3.86,28.98,20.37,Passing clouds.
+"October 25, 2021",52.66,8.16,63.84,26.01,Haze.
+"October 26, 2021",56.89,3.86,35.14,20.51,Haze.
+"October 27, 2021",46.25,2.98,27.05,15.67,Haze.
+"October 28, 2021",57.39,3.77,34.23,20.5,Passing clouds.
+"October 29, 2021",47.68,2.43,24.2,14.34,Haze.
+"October 30, 2021",61.93,3.05,31.25,17.78,Haze.
+"October 31, 2021",51.14,3.93,24.27,17.77,Haze.
+"November 1, 2021",49.32,2.77,23.98,16.35,Haze.
+"November 2, 2021",49.32,2.77,23.98,16.35,Haze.
+"November 3, 2021",61.66,4.86,41.14,25.27,Haze.
+"November 4, 2021",42.52,2.84,33.73,17.08,Haze.
+"November 5, 2021",53.11,2.0,15.14,9.54,Haze.
+"November 6, 2021",54.45,3.11,32.09,16.37,Passing clouds.
+"November 7, 2021",59.8,4.93,46.86,25.22,Passing clouds.
+"November 8, 2021",49.23,2.61,26.07,15.65,Haze.
+"November 9, 2021",56.73,3.41,31.59,20.45,Haze.
+"November 10, 2021",59.14,2.43,23.16,14.31,Haze.
+"November 11, 2021",50.45,2.02,19.23,11.58,Passing clouds.
+"November 12, 2021",48.77,1.82,16.3,10.9,Haze.
+"November 13, 2021",57.95,2.89,27.34,17.03,Haze.
+"November 14, 2021",47.57,2.61,22.82,15.68,Haze.
+"November 15, 2021",46.3,3.82,37.84,21.78,Haze.
+"November 16, 2021",37.48,2.95,31.36,17.7,Haze.
+"November 17, 2021",51.89,3.41,32.73,20.43,Haze.
+"November 18, 2021",38.93,2.27,23.57,13.66,Haze.
+"November 19, 2021",45.93,2.27,21.0,13.63,Passing clouds.
+"November 20, 2021",53.59,3.75,39.93,22.45,Haze.
+"November 21, 2021",52.25,2.89,31.98,17.01,Haze.
+"November 22, 2021",47.11,2.05,18.27,12.28,Haze.
+"November 23, 2021",53.64,3.25,27.0,18.38,Haze.
+"November 24, 2021",54.68,4.32,50.64,25.81,Haze.
+"November 25, 2021",52.18,2.95,36.75,17.7,Haze.
+"November 26, 2021",41.3,0.8,12.02,4.78,Passing clouds.
+"November 28, 2021",54.57,2.61,32.98,15.71,Passing clouds.
+"November 29, 2021",32.55,1.14,15.55,6.85,Haze.
+"November 30, 2021",46.68,0.91,10.95,5.47,Passing clouds.
+"December 1, 2021",52.48,2.05,22.61,12.3,Haze.
+"December 2, 2021",52.48,2.05,22.61,12.3,Haze.
+"December 3, 2021",41.18,2.5,28.39,15.05,Haze.
+"December 4, 2021",41.0,2.09,20.91,12.3,Haze.
+"December 5, 2021",49.18,2.89,28.2,17.07,Passing clouds.
+"December 6, 2021",51.52,4.64,58.16,23.23,Passing clouds.
+"December 7, 2021",45.7,4.11,57.09,23.96,Fog.
+"December 8, 2021",40.16,3.36,37.25,19.16,Haze.
+"December 9, 2021",45.57,3.07,33.77,18.46,Haze.
+"December 10, 2021",48.55,3.75,40.7,22.63,Haze.
+"December 11, 2021",51.05,3.86,39.82,23.3,Haze.
+"December 12, 2021",33.16,2.5,30.39,15.05,Haze.
+"December 13, 2021",35.14,1.93,20.86,11.64,Haze.
+"December 14, 2021",36.59,1.7,19.8,10.26,Haze.
+"December 15, 2021",44.09,2.14,23.55,12.31,Haze.
+"December 16, 2021",46.25,3.64,48.77,21.91,Haze.
+"December 17, 2021",47.8,3.75,42.61,22.59,Haze.
+"December 18, 2021",37.89,2.27,27.34,13.72,Haze.
+"December 19, 2021",40.68,2.95,28.93,17.81,Haze.
+"December 20, 2021",43.7,4.32,42.02,26.02,Haze.
+"December 21, 2021",36.41,1.93,18.18,11.61,Passing clouds.
+"December 22, 2021",44.45,2.61,28.14,15.72,Passing clouds.
+"December 23, 2021",39.84,2.16,25.0,12.95,Passing clouds.
+"December 24, 2021",41.82,3.43,29.73,17.04,Partly cloudy.
+"December 25, 2021",47.27,4.09,45.77,24.54,Haze.
+"December 26, 2021",44.16,2.84,31.75,17.06,Haze.
+"December 27, 2021",39.52,2.86,35.41,15.05,Passing clouds.
+"December 28, 2021",37.57,2.55,37.5,13.73,Rain. Mostly cloudy.
+"December 29, 2021",39.61,5.3,49.48,22.62,Fog.
+"December 30, 2021",39.7,3.95,44.36,23.29,Haze.
+"December 31, 2021",47.5,4.09,39.39,24.74,Passing clouds.
+"January 1, 2022",35.8,2.8,30.77,15.11,Passing clouds.
+"January 2, 2022",35.8,2.8,30.77,15.11,Passing clouds.
+"January 3, 2022",32.3,3.32,31.18,16.46,Passing clouds.
+"January 4, 2022",31.61,3.86,38.73,14.39,Passing clouds.
+"January 5, 2022",38.91,3.8,29.95,19.85,Rain. Partly cloudy.
+"January 6, 2022",39.57,4.18,25.07,21.19,Rain. Mostly cloudy.
+"January 7, 2022",34.43,3.18,56.32,19.15,Fog.
+"January 8, 2022",31.45,3.05,34.09,16.39,Fog.
+"January 9, 2022",39.09,6.18,17.95,23.89,Rain. Mostly cloudy.
+"January 10, 2022",35.5,3.64,54.77,20.5,Fog.
+"January 11, 2022",37.73,3.52,52.41,21.19,Fog.
+"January 12, 2022",37.59,3.64,49.73,21.92,Fog.
+"January 13, 2022",35.86,3.7,44.2,21.2,Clear.
+"January 14, 2022",42.45,3.3,35.27,19.82,Passing clouds.
+"January 15, 2022",47.34,4.32,53.11,26.0,Haze.
+"January 16, 2022",39.25,4.02,54.16,23.96,Haze.
+"January 17, 2022",42.41,4.2,49.59,23.96,Passing clouds.
+"January 18, 2022",36.75,5.41,51.55,20.55,Passing clouds.
+"January 19, 2022",47.43,3.86,45.11,23.25,Fog.
+"January 20, 2022",36.18,3.27,52.41,19.09,Passing clouds.
+"January 21, 2022",43.41,3.8,57.39,22.42,Fog.
+"January 22, 2022",41.14,3.93,61.14,16.31,Haze.
+"January 23, 2022",29.0,4.84,24.45,16.27,Fog.
+"January 24, 2022",41.57,4.68,61.43,23.07,Fog.
+"January 25, 2022",50.82,4.64,60.95,27.24,Fog.
+"January 26, 2022",39.55,3.8,39.02,21.18,Haze.
+"January 27, 2022",43.89,3.55,36.89,20.49,Haze.
+"January 28, 2022",50.61,4.02,44.64,23.92,Haze.
+"January 29, 2022",45.43,4.39,53.18,25.21,Haze.
+"January 30, 2022",47.41,4.36,51.84,25.81,Haze.
+"January 31, 2022",42.45,4.3,39.11,22.47,Haze.
+"February 1, 2022",44.2,4.5,45.75,24.43,Haze.
+"February 2, 2022",48.05,4.84,55.11,25.05,Passing clouds.
+"February 3, 2022",38.98,3.66,57.16,21.0,Haze.
+"February 4, 2022",40.84,2.95,36.73,17.69,Haze.
+"February 5, 2022",51.0,5.0,44.14,21.82,Passing clouds.
+"February 6, 2022",46.14,5.86,52.89,23.92,Fog.
+"February 7, 2022",49.5,4.64,49.23,25.89,Passing clouds.
+"February 8, 2022",46.89,3.98,41.7,20.49,Mostly cloudy.
+"February 9, 2022",14.82,1.48,20.64,8.9,Haze.
+Previous 24 hours,35.66,3.36,36.66,19.15,Haze.
+"February 10, 2022",35.66,3.36,36.66,19.15,Haze.
