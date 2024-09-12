@@ -30,7 +30,7 @@
 |5| Implementation of Base Paper Techniques | 17-Feb-2022 | Ovaiz | Done
 |6| Statistical Implementation | 17-Feb-2022 | Rabil | Done
 |7| SIR Model Implementation | 17-Feb-2022 | Zaeem & Rabil | Done
-|8| Map Creation [Sample](https://ourworldindata.org/coronavirus/country/pakistan) | 21-Feb-2022 | Zaeem | Pending
-|9| Proposal/Abstract for Submission | 23-Feb-2022 | Rabil | Pending
-|10| CNN Based Model Implementation + Trials | 28-Feb-2022 | Ovaiz & Rabil | Pending
+|8| Map Creation [Sample](https://ourworldindata.org/coronavirus/country/pakistan) | 21-Feb-2022 | Zaeem | Done
+|9| Proposal/Abstract for Submission | 23-Feb-2022 | Rabil | Done
+|10| CNN Based Model Implementation + Trials | 28-Feb-2022 | Ovaiz & Rabil | Done
 
